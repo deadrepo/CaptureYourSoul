@@ -1,0 +1,7 @@
+#main thing that you need
+python-telegram-bot
+#Used to copy the contents of the screen to a pillow image memory using various back-ends. Replacement for the ImageGrab Module.
+pyscreenshot
+pillow
+#Used for website snapshot
+selenium

@@ -6,6 +6,12 @@ This is just a base project, you can implement your own code much more in here
 
 #Example of start command
 
+![](images/start.JPG)
+
 #Example of screenshot full size desktop command
 
+![](images/screenshot1.JPG)
+
 #Example of screenshot with height and width of your desktop command
+
+![](images/screenshot.JPG)

@@ -18,7 +18,7 @@ How to run
 
 2)pip install python-telegram-bot --upgrade
 
-2)python main.py
+3)python main.py
 
 #Example of start command
 

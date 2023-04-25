@@ -2,7 +2,7 @@
 
 [CaptureYourSoul] is a telegram bot created with Python 
 
-created by @icyurei or @ikmxleo [4zer0day]
+created by deadrepo
 
 donate me some ETH
 
